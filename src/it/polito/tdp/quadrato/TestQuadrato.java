@@ -8,7 +8,6 @@ public class TestQuadrato {
 		
 		cq.genera(3);
 		
-		System.out.println( cq.soluzioni ) ;
 	}
 
 }
